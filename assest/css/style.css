@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.Logo-img{
+    margin-top: 20px;
+    width: 158px;
+    height: 27px;
+    margin-left: 6px;
+    font-size: 41px
+    
+}
+header.motherboard {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: rgb(97, 44, 44);
+    background-image: url(../assest/img/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+header.motherboard motherboadr-text-1{
+    font-size: 1.5rem;
+    font-style: italic;
+    line-height: 1.5rem;
+    margin-bottom: 100px;
+}
